@@ -1,0 +1,34 @@
+.title {
+    text-align: center;
+}
+
+.head-title {
+    color: red;
+    font-style: italic;
+}
+
+.introduction {
+
+}
+
+.introduction-img {
+    width: 500px;
+    height: 400px;
+    margin-left: 500px;
+}
+
+.text {
+    text-align: center;
+}
+
+.money {
+    text-align: center;
+}
+
+.cards {
+    display: inline-block;
+}
+
+.card {
+    text-align: center;
+}
